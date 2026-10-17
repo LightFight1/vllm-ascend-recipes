@@ -46,4 +46,4 @@ aliases:
     cache_dir: GLM-5.1-w4a4c8-mxfp4
 
   - model_id: PaddlePaddle/PaddleOCR-VL
-    cache_dir: PaddleOCR-VL-w8a8
+    cache_dir: PaddlePaddle/PaddleOCR-VL
