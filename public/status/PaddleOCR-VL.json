@@ -1,0 +1,24 @@
+{
+  "model": "PaddleOCR-VL",
+  "last_pr_run": {
+    "kind": "pr",
+    "status": "unknown",
+    "conclusion": "failure",
+    "head_sha": "747cb090406dfc819ea45c8e208f276973419bc4",
+    "head_sha_url": "https://github.com/vllm-ascend/vllm-ascend-recipes/commit/747cb090406dfc819ea45c8e208f276973419bc4",
+    "workflow_run_id": 39225210675,
+    "workflow_run_url": "https://github.com/vllm-ascend/vllm-ascend-recipes/actions/runs/39225210675",
+    "recipe_path": "models/en/PaddlePaddle/PaddleOCR-VL.yaml",
+    "recipe_yaml_url": "https://github.com/vllm-ascend/vllm-ascend-recipes/blob/747cb090406dfc819ea45c8e208f276973419bc4/models/en/PaddlePaddle/PaddleOCR-VL.yaml",
+    "params_url": "https://vllm-ascend.github.io/vllm-ascend-recipes/runs/747cb090406dfc819ea45c8e208f276973419bc4/PaddleOCR-VL.params.json",
+    "started_at": "",
+    "finished_at": "2026-10-19T09:24:09Z",
+    "pr_number": null,
+    "pr_url": null,
+    "pr_title": null,
+    "pr_author": null
+  },
+  "last_nightly_run": null,
+  "last_manual_run": null,
+  "targets": {}
+}
